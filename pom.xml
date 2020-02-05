@@ -6,7 +6,7 @@
     <version>1.0-RAMA</version>
     <packaging>pom</packaging>
     <name>Project Build</name>
-    <!-- Comment added to check the automated CI/CD!!!-->
+    <!-- Comment added to check the automated CI/CD Demonstration-->
     <modules>
         <module>project</module>
     </modules>
